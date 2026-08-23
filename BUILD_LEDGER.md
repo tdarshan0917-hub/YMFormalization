@@ -15,7 +15,8 @@ The Git history and GitHub CI are the authoritative machine records.
 |---|---|---|---|---|
 | YM-000 | Project bootstrap | Lean/Mathlib repository initialized | GREEN | — |
 | YM-001 | `SU2.Kstar_K` | Exact twisted-cell identity `K* K = 8 I` | GREEN | standard Lean trio only |
-| YM-002 | `SU2.gaugeProjection_idempotent` | `P_gauge = (1/8) K K*` is a projection | ACTIVE | standard Lean trio only |
+| YM-002 | `SU2.gaugeProjection_idempotent` | `P_gauge = (1/8) K K*` is a projection | GREEN | standard Lean trio only |
+| YM-003 | `SU2.physicalProjection_idempotent` | `P_perp = I - P_gauge` is the complementary projection | GREEN | standard Lean trio only |
 
 ## Axiom policy
 
