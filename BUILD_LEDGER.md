@@ -19,6 +19,7 @@ The Git history and GitHub CI are the authoritative machine records.
 | YM-003 | `SU2.physicalProjection_idempotent` | `P_perp = I - P_gauge` is the complementary projection | GREEN | standard Lean trio only |
 | YM-004 | `SU2.plaquetteLinearization_K` | Linearized plaquette map annihilates gauge directions `L(Kη)=0` | GREEN | standard Lean trio only |
 | YM-005 | `SU2.plaquetteAdjoint_spec` | Explicit `Lstar` satisfies `<LX,Y> = <X,Lstar Y>` | GREEN | standard Lean trio only |
+| YM-006 | `SU2.plaquetteAdjoint_linearization_eq_eight_physicalProjection` | Exact operator identity `Lstar L = 8 P_perp` | GREEN | standard Lean trio only |
 
 ## Axiom policy
 

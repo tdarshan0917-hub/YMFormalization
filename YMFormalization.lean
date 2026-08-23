@@ -4,3 +4,4 @@ import YMFormalization.SU2.GaugeProjection
 import YMFormalization.SU2.PhysicalProjection
 import YMFormalization.SU2.PlaquetteLinearization
 import YMFormalization.SU2.PlaquetteAdjoint
+import YMFormalization.SU2.PlaquetteLaplacian
