@@ -21,6 +21,7 @@ The Git history and GitHub CI are the authoritative machine records.
 | YM-005 | `SU2.plaquetteAdjoint_spec` | Explicit `Lstar` satisfies `<LX,Y> = <X,Lstar Y>` | GREEN | standard Lean trio only |
 | YM-006 | `SU2.plaquetteAdjoint_linearization_eq_eight_physicalProjection` | Exact operator identity `Lstar L = 8 P_perp` | GREEN | standard Lean trio only |
 | YM-007 | `SU2.twistConjugation_su2` | Pauli twist-eaters induce the explicit SU(2) adjoint rotations | GREEN | standard Lean trio only |
+| YM-008 | `SU2.su2OfVec_cellA_eq_sub_twistConjugation` | Exact bridge `A_mu = I - Ad_Gamma` | GREEN | standard Lean trio only |
 
 ## Axiom policy
 
