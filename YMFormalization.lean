@@ -7,3 +7,4 @@ import YMFormalization.SU2.PlaquetteAdjoint
 import YMFormalization.SU2.PlaquetteLaplacian
 import YMFormalization.SU2.PauliTwist
 import YMFormalization.SU2.TwistDifference
+import YMFormalization.SU2.PlaquetteKernel
