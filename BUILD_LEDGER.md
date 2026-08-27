@@ -25,6 +25,7 @@ The Git history and GitHub CI are the authoritative machine records.
 | YM-009 | `SU2.plaquetteLinearization_eq_zero_iff_exists_K` | Exact kernel identity `ker L = im K` | GREEN | standard Lean trio only |
 | YM-010 | `SU2.plaquetteQuadratic_linearization_of_physical` | Exact quadratic/coercivity identity on physical slice | GREEN | standard Lean trio only |
 | YM-011 | `SU2.linearizedWilsonOperator_eq_eight_beta_physical` | Linearized Wilson operator `β Lstar L = 8β P_perp` | GREEN | standard Lean trio only |
+| YM-012 | `SU2.backgroundTwistedPlaquette_eq_one` | All six twisted plaquettes equal identity at the Pauli background | GREEN | standard Lean trio only |
 
 ## Axiom policy
 
