@@ -24,6 +24,7 @@ The Git history and GitHub CI are the authoritative machine records.
 | YM-008 | `SU2.su2OfVec_cellA_eq_sub_twistConjugation` | Exact bridge `A_mu = I - Ad_Gamma` | GREEN | standard Lean trio only |
 | YM-009 | `SU2.plaquetteLinearization_eq_zero_iff_exists_K` | Exact kernel identity `ker L = im K` | GREEN | standard Lean trio only |
 | YM-010 | `SU2.plaquetteQuadratic_linearization_of_physical` | Exact quadratic/coercivity identity on physical slice | GREEN | standard Lean trio only |
+| YM-011 | `SU2.linearizedWilsonOperator_eq_eight_beta_physical` | Linearized Wilson operator `β Lstar L = 8β P_perp` | GREEN | standard Lean trio only |
 
 ## Axiom policy
 

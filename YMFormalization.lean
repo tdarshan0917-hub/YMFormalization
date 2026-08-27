@@ -9,3 +9,4 @@ import YMFormalization.SU2.PauliTwist
 import YMFormalization.SU2.TwistDifference
 import YMFormalization.SU2.PlaquetteKernel
 import YMFormalization.SU2.PlaquetteQuadratic
+import YMFormalization.SU2.WilsonQuadratic
