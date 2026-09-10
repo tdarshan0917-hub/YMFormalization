@@ -26,6 +26,7 @@ The Git history and GitHub CI are the authoritative machine records.
 | YM-010 | `SU2.plaquetteQuadratic_linearization_of_physical` | Exact quadratic/coercivity identity on physical slice | GREEN | standard Lean trio only |
 | YM-011 | `SU2.linearizedWilsonOperator_eq_eight_beta_physical` | Linearized Wilson operator `β Lstar L = 8β P_perp` | GREEN | standard Lean trio only |
 | YM-012 | `SU2.backgroundTwistedPlaquette_eq_one` | All six twisted plaquettes equal identity at the Pauli background | GREEN | standard Lean trio only |
+| YM-013 | `SU2.twistedPlaquetteDerivD_eq_su2OfVec_linearization` | Derivative of the genuine nonlinear twisted exponential plaquette equals the Pauli realization of the linearized plaquette map on all six plaquettes | GREEN | standard Lean trio only |
 
 ## Axiom policy
 
