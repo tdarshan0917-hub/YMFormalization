@@ -12,3 +12,5 @@ import YMFormalization.SU2.PlaquetteQuadratic
 import YMFormalization.SU2.WilsonQuadratic
 import YMFormalization.SU2.TwistedBackgroundPlaquette
 import YMFormalization.SU2.NonlinearPlaquetteDerivative
+
+import YMFormalization.SU2.PauliTraceIdentity
