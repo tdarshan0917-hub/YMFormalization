@@ -43,3 +43,12 @@ The expected foundational footprint is:
 Open Yang–Mills research frontiers are represented explicitly as
 unproved target propositions or theorem hypotheses. They are never
 silently promoted to axioms.
+
+## YM-014B — Genuine nonlinear Wilson plaquette quadratic limit
+
+- File: `YMFormalization/SU2/WilsonPlaquetteSecondVariation.lean`
+- Headline: `twistedPlaquetteWilsonCostD_quadratic_limit`
+- Establishes: W(P_p(tX))/t² tends to (1/2) vecPairing(L_p X, L_p X).
+- Proves determinant one for the actual nonlinear twisted plaquette path.
+- Headline axiom audit: [propext, Classical.choice, Quot.sound].
+- Scope: directional quadratic limit; classical Hessian and neighborhood coercivity remain subsequent obligations.
