@@ -52,3 +52,16 @@ silently promoted to axioms.
 - Proves determinant one for the actual nonlinear twisted plaquette path.
 - Headline axiom audit: [propext, Classical.choice, Quot.sound].
 - Scope: directional quadratic limit; classical Hessian and neighborhood coercivity remain subsequent obligations.
+
+## YM-015 — Full nonlinear Wilson cell-action quadratic limit
+
+- File: `YMFormalization/SU2/WilsonCellQuadraticLimit.lean`
+- Endpoints: `wilsonCellActionPathD_zero`,
+  `wilsonCellActionPathD_quadratic_limit`,
+  `wilsonCellActionPathD_quadratic_limit_of_physical`.
+- Result: the actual six-plaquette action divided by t² tends to
+  4β <X, P_perp X>, and to 4β <X,X> on the physical slice.
+- Endpoint axiom reports: [propext, Classical.choice, Quot.sound].
+- Scope: directional limits; classical Hessian regularity and uniform
+  nonlinear coercivity remain open obligations.
+- Certification follows the build-and-push policy above.

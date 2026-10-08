@@ -15,3 +15,5 @@ import YMFormalization.SU2.TwistedBackgroundPlaquette
 import YMFormalization.SU2.NonlinearPlaquetteDerivative
 
 import YMFormalization.SU2.PauliTraceIdentity
+
+import YMFormalization.SU2.WilsonCellQuadraticLimit
